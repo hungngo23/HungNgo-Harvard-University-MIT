@@ -1,4 +1,8 @@
 # HungNgo-Harvard-University-MIT
+CS50
+This is my assignment solutions. Below is the information of those assignments:
+
+Week 2
 
 week 1:Lab 1: Population Growth
 Determine how long it takes for a population to reach a particular size.
